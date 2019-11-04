@@ -6,7 +6,7 @@ LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
 void setup() {
   lcd.begin(16, 2);
-  lcd.print("Sushant kumar 19bec1078");
+  lcd.print("ARMAAN SINGH MAHAL 19BEC1103");
 }
 
 void loop() {
